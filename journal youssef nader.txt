@@ -1,0 +1,5 @@
+April 1 9 pm : worked on overall path and took files from lab 8 and first milestone to put all together to achieve the basic modules for the pipeline archeticture covering the 42 instructions 
+
+April 3 7pm: done both bonuses the test generator using python and the other bonus of making the branch outcome to id stage 
+
+April 5 8pm: done the report 

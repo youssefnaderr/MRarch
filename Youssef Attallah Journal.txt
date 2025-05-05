@@ -1,0 +1,16 @@
+Youssef Attallah 900221247
+
+April 29, 8:00PM: 
+	Wrote the top module, initialized the pipeline
+May 1, 10:00AM: 
+	Finished the pipeline, the forwrding unit.
+May 2, 2:00PM: 
+	Did the Flushing, Clock Divider
+	Separated the clocks "Posedge" & "Negedge"
+	Added the needed MUXs
+May 4, 2:00PM: 
+	Created the SingleMem module.
+	Worked on the required Muxs, wires and decoders to make the single memory work.
+May 5, 3:30PM: 
+	Debugging and Testing
+
